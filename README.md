@@ -1,6 +1,8 @@
 # Inventory Desktop App
 
-A Flutter-based inventory management application with web support.
+A Flutter-based inventory management application.
+
+<!-- Deployment test -->
 
 ## Features
 
